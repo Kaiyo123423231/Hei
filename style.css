@@ -1,0 +1,116 @@
+.navbar{
+ height: 15vh;
+ background:#454693;
+ width: 100%;
+display: flex;
+}
+.button{
+background:#7172bb;
+height: 5vh;
+width: 12vw;
+margin-left:7%;
+margin-right: 2%;
+display: flex;
+margin-top:2%;
+justify-content: center;
+align-content: center;
+padding-top: 10px;
+}
+.logo{
+background-image: url(hi.jpeg.);
+height: 10vh;
+width: 7vw;
+margin-left:6%;
+border-radius: 50px;
+margin-top: 1%;
+}
+.ji{
+width: 5px;
+}
+.personal-info{
+height: 50vh;
+background:#5252ac;
+}
+.img{
+width: 23%;
+height: 80%;
+margin-left: 40px;
+margin-top: 15px;
+}
+.text{
+margin-left: 130px;
+margin-top:3px;
+font-size: 35px;
+}
+h4{
+font-family: sans-serif;
+color:white;
+}
+p{
+font-size: 30px;
+display: flex;
+margin-left: 30%;
+margin-top: 7%;
+font-family: sans-serif;
+color: white;
+}
+.me{
+ display: flex;
+}
+.projects{
+ height: 30vh;
+ background:#6a6bb8;
+}
+.parent{
+display: flex;
+}
+.hello{
+height: 20vh;
+display: flex;
+justify-content: center;
+align-items: center;
+width: 25vw;
+margin-left: 5%;
+margin-top: 30px;
+}
+
+.services{
+height: 60vh;
+background:#5f60b3;
+}
+.contact{
+height: 30vh;
+background:#797abf;
+}
+.footer{
+height: 20vh;
+background:#7777be;
+}
+.car{
+ height: 15vh;
+ width: 100%;
+display: flex;	
+}
+.bean{
+height: 45vh;
+width: 20vw;
+background:#a59ccd;
+margin-top: 1%;
+margin-left: 3%;
+}
+.tu{
+height: 10vh;
+width: 20vw;
+background:#796cb5;
+margin-top: 50%;
+}
+.gay{
+font-size: 35px;
+margin-left: 20%;
+margin-top: 20%;
+}
+h1{
+font-size: 30px;
+margin-left: 20%;
+margin-top: 50%;
+}
